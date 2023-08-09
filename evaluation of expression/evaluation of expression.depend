@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685033121 source:c:\users\sreya\onedrive\desktop\dsa\evaluation of expression\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
